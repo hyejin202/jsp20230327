@@ -18,7 +18,7 @@
 	request.setAttribute("a1", o1);
 	
 %>
-	<h1>el(expression language) : 속성attribute)에 쉽게 접근할 수 있는 문법</h1>
+	<h1>el(expression language) : 속성(attribute)에 쉽게 접근할 수 있는 문법</h1>
 	<h1>\${attribute 이름.프로퍼티명 }</h1>
 	<hr />
 	
